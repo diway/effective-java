@@ -1,4 +1,1 @@
-effective-java
-==============
-
-Effective Java
+Some examples from 'Effective Java' book.
